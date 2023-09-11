@@ -1,6 +1,8 @@
 #!/bin/bash
 
 # Original script sourced from SEC-335 at Champlain College.
+# Knowledge on passing parameters: https://stackoverflow.com/questions/18568706/check-number-of-arguments-passed-to-a-bash-script 
+# Knowledge on validating parameters: https://linuxize.com/post/bash-check-if-file-exists/ 
 
 hostfile=$1
 portfile=$2
